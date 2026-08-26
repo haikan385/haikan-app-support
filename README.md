@@ -1,23 +1,22 @@
 # 配管アプリサポート
 
-GitHub Pagesへそのまま配置できる静的サポートサイトです。
+GitHub Pagesへ配置できる静的な公式サポートサイトです。
 
-## 公開前に変更する場所
+## 掲載アプリ
 
-1. `contact.html` 内の `support@example.com` を実際のサポート用メールアドレスへ変更
-2. 各アプリページの「ここに実際のアプリ画面を追加できます」を実スクリーンショットに差し替え
-3. プライバシーポリシーと利用規約を、実際のアプリのデータ収集・課金・利用条件と照合
-4. GitHubリポジトリの Settings → Pages で公開対象ブランチを設定
+- テストズミ！
+- 配管45°計算アプリ
 
 ## 構成
-- index.html
-- testozumi.html
-- haikan45.html
-- faq.html
-- contact.html
-- privacy.html
-- terms.html
-- assets/css/style.css
-- assets/js/main.js
 
-新しいアプリを追加する場合は、アプリページを1枚追加し、トップページのアプリカードとヘッダー/フッターへリンクを追加してください。
+- `index.html`：公式ポータル
+- `testozumi.html`：テストズミ！画像付き操作案内
+- `haikan45.html`：配管45°計算アプリ画像付き操作案内
+- `faq.html`：アプリ別FAQ
+- `contact.html`：公式サポートメール
+- `privacy.html`：プライバシーポリシー
+- `terms.html`：利用規約
+- `manuals/testozumi_manual.pdf`：テストズミ！取扱説明書
+- `assets/`：ローカルCSS、JavaScript、アイコン、実画面画像
+
+外部の解析・広告・フォント・JavaScriptは使用していません。新しいアプリを追加するときは、アプリページとトップページのカードを追加してください。
