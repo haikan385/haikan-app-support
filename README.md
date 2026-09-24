@@ -10,7 +10,7 @@ GitHub Pagesへ配置できる静的な公式サポートサイトです。
 ## 構成
 
 - `index.html`：公式ポータル
-- `testozumi.html`：テストズミ！画像付き操作案内
+- `testozumi.html`：テストズミ！画像付き操作案内（全データバックアップ／復元を含む）
 - `haikan45.html`：配管45°計算アプリ画像付き操作案内
 - `faq.html`：アプリ別FAQ
 - `contact.html`：公式サポートメール
